@@ -1,0 +1,11 @@
+Vanilla Tweaks Resource Pack
+Version: 1.19
+Packs:
+	PingColorIndicator
+	DirectionalHoppers
+	CompassLodestone
+	NumberedHotbar
+	DarkUI
+
+Combined packs:
+	DarkUI+NumberedHotbar
