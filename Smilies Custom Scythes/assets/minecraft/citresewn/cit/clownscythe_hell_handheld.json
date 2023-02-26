@@ -1,7 +1,7 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "clownscythe:item/clown_scythe_handheld"
+    "layer0": "clownscythe:item/clownscythe_hell_handheld"
   },
   "display": {
     "thirdperson_righthand": {

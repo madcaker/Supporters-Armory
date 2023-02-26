@@ -2,7 +2,7 @@
 	"credit": "RoseIsConfused",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "clownscythe:item/invasive_species_handheld"
+		"layer0": "clownscythe:item/clownscythe_geode_handheld"
 	},
 	"display": {
 		"thirdperson_righthand": {

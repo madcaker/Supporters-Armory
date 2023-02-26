@@ -2,7 +2,7 @@
 	"credit": "RoseIsConfused",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "clownscythe:item/brambylon_handheld"
+		"layer0": "clownscythe:item/clownscythe_invasive_handheld"
 	},
 	"display": {
 		"thirdperson_righthand": {

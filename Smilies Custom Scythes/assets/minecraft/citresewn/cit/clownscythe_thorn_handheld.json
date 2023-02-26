@@ -2,7 +2,7 @@
 	"credit": "RoseIsConfused",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "clownscythe:item/geode_to_a_nightingale_handheld"
+		"layer0": "clownscythe:item/clownscythe_thorn_handheld"
 	},
 	"display": {
 		"thirdperson_righthand": {
