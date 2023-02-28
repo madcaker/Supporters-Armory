@@ -1,5 +1,5 @@
-# Smilies Custom Scythes
- Custom scythes for Doctor4t's Clown Scythe mod
+# Supporter's Custom Armory
+ Custom item textures for Doctor4t's Kofi supporter minecraft server
 
 
 The clown scythe mod is ONLY to be obtained via Doctor4t's Kofi.
